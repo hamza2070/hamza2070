@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Hulah](https://hulah.co)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning some new **technologies**.
 
 - 👯 I’m looking to collaborate on **web and App development technologies**
 
