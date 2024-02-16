@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Thurock training consultancy.
 
-- 🌱 I’m currently learning some new **technologies**.
+- 🌱 I’m currently learning some new **.Net Core**.
 
 - 👯 I’m looking to collaborate on **web and App development technologies**
 
