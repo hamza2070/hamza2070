@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 <h3 align="center">A passionate Web and App developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/master/thoughtworks-gif_dribbble.gif" alt="" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/master/thoughtworks-gif_dribbble.gif">
 
 - 🔭 I’m currently working on Thurock training consultancy.
 
